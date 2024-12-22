@@ -38,7 +38,7 @@ video{
     height: 460px;
     width: 800px;
 }
-.player_one{
+.player_one, .player_two{
 	background-color: rgb(255, 255, 255); 
 	padding: 2px; 
 	border-radius: 5px;
@@ -46,9 +46,4 @@ video{
 audio{
     height: 30px;
     width: 800px;
-}
-.player_two{
-	background-color: rgb(255, 255, 255); 
-	padding: 2px; 
-	border-radius: 5px;
 }
